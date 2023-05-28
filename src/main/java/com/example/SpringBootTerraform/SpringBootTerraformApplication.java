@@ -12,6 +12,6 @@ public class SpringBootTerraformApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootTerraformApplication.class, args);
 	}
-		
+
 
 }
